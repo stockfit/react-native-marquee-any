@@ -1,10 +1,9 @@
 {
   "name": "@stockfit/react-native-marquee-any",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "StockFit Inc.",
   "license": "ISC",
-  "private": false,
   "repository": "git://github.com:stockfit/react-native-marquee-any.git",
   "peerDependencies": {
     "react": "17.0.1",
