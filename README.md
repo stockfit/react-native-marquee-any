@@ -2,6 +2,8 @@
 
 A pure JavaScript marquee component for react native. This package is inspired by react-native-marquee. Instead of limiting the children to text, it can animate any component you like.
 
+To see a live demo of the package in action, click here: [Expo Snack](https://snack.expo.dev/@fireflystock/react-native-marquee-any)
+
 ## Installation
 
 ```
